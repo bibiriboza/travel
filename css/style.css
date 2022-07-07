@@ -1,0 +1,942 @@
+/*
+	@name Travel#1
+*/
+/* Only edit this if you know what you are doing! */
+body { margin: 0px; padding: 0px; font-family:"Arial"; overflow-x:hidden; }
+
+/* Only edit this if you know what you are doing! */
+img { position: absolute; display: block; margin: 0px; border: none; padding: 0px; }
+
+/* Only edit this if you know what you are doing! */
+div { position: absolute; }
+
+#content-container { display: block; position: relative; width: 1440px; width: 1440px; height: 3735px; overflow: hidden; display: block;  margin-left: auto; margin-right: auto;  }
+
+#bg_desktop {
+	top: 0px;
+	left: 0px;
+	width: 1440px;
+	height: 3735px;
+	background:rgba(255,255,255,1);
+}
+
+#bg {
+	top: 0px;
+	left: 0px;
+	width: 1445px;
+	height: 3735px;
+}
+
+#rectangle_27 {
+	top: 2404px;
+	left: 0px;
+	width: 1442px;
+	height: 1331px;
+}
+
+
+#bg_ek1 {
+	opacity:0.69999998807907;
+	top: 2404px;
+	left: 0px;
+	width: 1445px;
+	height: 1270px;
+	background:rgba(255,255,255,0.7);
+}
+
+
+#garrett_parker_dlkf4_dbcou_unsplash_1 {
+	top: 0px;
+	left: 0px;
+	width: 1440px;
+	height: 765px;
+}
+
+#footer {
+	top: 3688px;
+	left: 590px;
+	width: 728.96px;
+	height: 33.65px;
+}
+#social_media {
+	top: 0px;
+	left: 588px;
+	width: 140.96px;
+	height: 33.65px;
+}
+#frame_5 {
+	top: 0px;
+	left: 0px;
+	width: 140.96px;
+	height: 33.65px;
+}
+#akar_icons_instagram_fill {
+	top: 0px;
+	left: 0px;
+	width: 33.65px;
+	height: 33.65px;
+}
+
+#vector {
+	top: 1.4px;
+	left: 1.4px;
+	width: 30.85px;
+	height: 30.85px;
+}
+
+#akar_icons_video {
+	top: 0px;
+	left: 53.65px;
+	width: 33.65px;
+	height: 33.65px;
+}
+#group {
+	top: 5.61px;
+	left: 2.8px;
+	width: 28.04px;
+	height: 22.44px;
+}
+
+#vector_ek1 {
+	top: 0px;
+	left: 0px;
+	width: 28.04px;
+	height: 22.44px;
+}
+
+
+#vector_ek2 {
+	top: 7px;
+	left: 11px;
+	width: 7.01px;
+	height: 8.41px;
+}
+
+#akar_icons_twitter_fill {
+	top: 0px;
+	left: 107.31px;
+	width: 33.65px;
+	height: 33.65px;
+}
+
+#vector_ek3 {
+	top: 3.85px;
+	left: 1.31px;
+	width: 31.84px;
+	height: 25.88px;
+}
+
+
+#all_rights_reserved___travel_portal {
+	top: 7px;
+	left: 0px;
+	width: 281px;
+	height: 32px;
+	overflow: hidden;
+	font-family: Red Hat Text;
+	font-size: 16px;
+	text-align: left;
+	color:#FFFFFF;
+}
+
+#stories {
+	top: 2311px;
+	left: 119px;
+	width: 1201px;
+	height: 1322px;
+}
+#frame_4 {
+	top: 1263px;
+	left: 489px;
+	width: 228px;
+	height: 59px;
+}
+#bi_arrow_right {
+	top: 9.5px;
+	left: 31px;
+	width: 40px;
+	height: 40px;
+}
+
+#vector_ek4 {
+	top: 8.75px;
+	left: 2.5px;
+	width: 35px;
+	height: 22.5px;
+}
+
+
+#see_more {
+	top: 13.5px;
+	left: 81px;
+	width: 145px;
+	height: 49px;
+	overflow: hidden;
+	font-family: Red Hat Text;
+	font-size: 24px;
+	text-align: left;
+	color:#FFFFFF;
+}
+
+#story_4 {
+	top: 973px;
+	left: 0px;
+	width: 1200px;
+	height: 250px;
+}
+
+#rectangle_17 {
+	top: 0px;
+	left: 0px;
+	width: 400px;
+	height: 250px;
+}
+
+
+#lorem_ipsum_dolor_sit_amet__consectetur_adipiscing_elit__sed_do_eiusmod_tempor_incididunt_ut_labore_et_dolore_magna_aliqua__ut_enim_ad_minim_veniam__quis_nostrud_exercitation_ullamco_laboris_nisi_ut_aliquip_ex_ea_commodo_consequat__duis_aute_irure_dolor_in_reprehenderit_in_voluptate_velit_esse_cillum_dolore_eu_fugiat_nulla_pariatur__excepteur_sint_occaecat_cupidatat_non_proident__sunt_in_culpa_qui_officia_deserunt_mollit_anim_id_est_laborum_lorem_ipsum_dolor_sit_amet__consectetur_adipiscing_elit____read_more {
+	top: 66px;
+	left: 440px;
+	width: 785px;
+	height: 198px;
+	overflow: hidden;
+	font-family: Aleo;
+	font-size: 20px;
+	text-align: left;
+	color:#0D606F;
+}
+
+
+#the_longest_journey_in_my_life_ {
+	top: 0px;
+	left: 440px;
+	width: 800.5px;
+	height: 66.5px;
+	overflow: hidden;
+	font-family: Aleo;
+	font-size: 35px;
+	text-align: left;
+	color:#0D606F;
+}
+
+#story_3 {
+	top: 693px;
+	left: 1px;
+	width: 1200px;
+	height: 250px;
+}
+
+#rectangle_17_ek1 {
+	top: 0px;
+	left: 0px;
+	width: 400px;
+	height: 250px;
+}
+
+
+#lorem_ipsum_dolor_sit_amet__consectetur_adipiscing_elit__sed_do_eiusmod_tempor_incididunt_ut_labore_et_dolore_magna_aliqua__ut_enim_ad_minim_veniam__quis_nostrud_exercitation_ullamco_laboris_nisi_ut_aliquip_ex_ea_commodo_consequat__duis_aute_irure_dolor_in_reprehenderit_in_voluptate_velit_esse_cillum_dolore_eu_fugiat_nulla_pariatur__excepteur_sint_occaecat_cupidatat_non_proident__sunt_in_culpa_qui_officia_deserunt_mollit_anim_id_est_laborum_lorem_ipsum_dolor_sit_amet__consectetur_adipiscing_elit____read_more_ek1 {
+	top: 66px;
+	left: 440px;
+	width: 785px;
+	height: 198px;
+	overflow: hidden;
+	font-family: Aleo;
+	font-size: 20px;
+	text-align: left;
+	color:#0D606F;
+}
+
+
+#i_left_my_heart_in_the_mountains_ {
+	top: 0px;
+	left: 440px;
+	width: 800.5px;
+	height: 66.5px;
+	overflow: hidden;
+	font-family: Aleo;
+	font-size: 35px;
+	text-align: left;
+	color:#0D606F;
+}
+
+#story_2 {
+	top: 413px;
+	left: 1px;
+	width: 1200px;
+	height: 250px;
+}
+
+#rectangle_16 {
+	top: 0px;
+	left: 0px;
+	width: 400px;
+	height: 250px;
+}
+
+
+#lorem_ipsum_dolor_sit_amet__consectetur_adipiscing_elit__sed_do_eiusmod_tempor_incididunt_ut_labore_et_dolore_magna_aliqua__ut_enim_ad_minim_veniam__quis_nostrud_exercitation_ullamco_laboris_nisi_ut_aliquip_ex_ea_commodo_consequat__duis_aute_irure_dolor_in_reprehenderit_in_voluptate_velit_esse_cillum_dolore_eu_fugiat_nulla_pariatur__excepteur_sint_occaecat_cupidatat_non_proident__sunt_in_culpa_qui_officia_deserunt_mollit_anim_id_est_laborum_lorem_ipsum_dolor_sit_amet__consectetur_adipiscing_elit____read_more_ek2 {
+	top: 66px;
+	left: 440px;
+	width: 785px;
+	height: 198px;
+	overflow: hidden;
+	font-family: Aleo;
+	font-size: 20px;
+	text-align: left;
+	color:#0D606F;
+}
+
+
+#canyonlands_national_park__utah {
+	top: 0px;
+	left: 440px;
+	width: 800.5px;
+	height: 66.5px;
+	overflow: hidden;
+	font-family: Aleo;
+	font-size: 35px;
+	text-align: left;
+	color:#0D606F;
+}
+
+#story_1 {
+	top: 133px;
+	left: 1px;
+	width: 1200px;
+	height: 250px;
+}
+
+#rectangle_15 {
+	top: 0px;
+	left: 0px;
+	width: 400px;
+	height: 250px;
+}
+
+
+#lorem_ipsum_dolor_sit_amet__consectetur_adipiscing_elit__sed_do_eiusmod_tempor_incididunt_ut_labore_et_dolore_magna_aliqua__ut_enim_ad_minim_veniam__quis_nostrud_exercitation_ullamco_laboris_nisi_ut_aliquip_ex_ea_commodo_consequat__duis_aute_irure_dolor_in_reprehenderit_in_voluptate_velit_esse_cillum_dolore_eu_fugiat_nulla_pariatur__excepteur_sint_occaecat_cupidatat_non_proident__sunt_in_culpa_qui_officia_deserunt_mollit_anim_id_est_laborum_lorem_ipsum_dolor_sit_amet__consectetur_adipiscing_elit____read_more_ek3 {
+	top: 66px;
+	left: 440px;
+	width: 785px;
+	height: 198px;
+	overflow: hidden;
+	font-family: Aleo;
+	font-size: 20px;
+	text-align: left;
+	color:#0D606F;
+}
+
+
+#_10_photos_of_attractive_thailand {
+	top: 0px;
+	left: 440px;
+	width: 800.5px;
+	height: 66.5px;
+	overflow: hidden;
+	font-family: Aleo;
+	font-size: 35px;
+	text-align: left;
+	color:#0D606F;
+}
+
+
+#travel_stories {
+	top: 0px;
+	left: 433px;
+	width: 380px;
+	height: 81px;
+	overflow: hidden;
+	font-family: Red Hat Text;
+	font-size: 40px;
+	text-align: left;
+	color:#F2785C;
+}
+
+#destinations {
+	top: 1189px;
+	left: -540px;
+	width: 2520px;
+	height: 1042px;
+}
+#frame_3 {
+	top: 983px;
+	left: 1147px;
+	width: 228px;
+	height: 59px;
+}
+#bi_arrow_right_ek1 {
+	top: 9.5px;
+	left: 31px;
+	width: 40px;
+	height: 40px;
+}
+
+#vector_ek5 {
+	top: 8.75px;
+	left: 2.5px;
+	width: 35px;
+	height: 22.5px;
+}
+
+
+#find_more {
+	top: 13.5px;
+	left: 81px;
+	width: 145px;
+	height: 49px;
+	overflow: hidden;
+	font-family: Red Hat Text;
+	font-size: 24px;
+	text-align: left;
+	color:#FFFFFF;
+}
+
+#frame_6 {
+	top: 923px;
+	left: 1221px;
+	width: 80px;
+	height: 20px;
+}
+
+#ellipse_1 {
+	opacity:0.5;
+	top: 0px;
+	left: 0px;
+	width: 20px;
+	height: 20px;
+	-ms-border-radius: 10px / 10px;
+	-o-border-radius: 10px / 10px;
+	-moz-border-radius: 10px / 10px;
+	-webkit-border-radius: 10px / 10px;
+	border-radius: 10px / 10px;
+	background:rgba(242,120,92,0.5);
+}
+
+
+#ellipse_2 {
+	top: 0px;
+	left: 30px;
+	width: 20px;
+	height: 20px;
+	-ms-border-radius: 10px / 10px;
+	-o-border-radius: 10px / 10px;
+	-moz-border-radius: 10px / 10px;
+	-webkit-border-radius: 10px / 10px;
+	border-radius: 10px / 10px;
+	background:rgba(242,120,92,1);
+}
+
+
+#ellipse_3 {
+	opacity:0.5;
+	top: 0px;
+	left: 60px;
+	width: 20px;
+	height: 20px;
+	-ms-border-radius: 10px / 10px;
+	-o-border-radius: 10px / 10px;
+	-moz-border-radius: 10px / 10px;
+	-webkit-border-radius: 10px / 10px;
+	border-radius: 10px / 10px;
+	background:rgba(242,120,92,0.5);
+}
+
+#destinations_ek1 {
+	top: 99px;
+	left: 0px;
+	width: 2520px;
+	height: 800px;
+}
+#destination_1 {
+	top: 0px;
+	left: 0px;
+	width: 800px;
+	height: 800px;
+}
+
+#rectangle_23 {
+	top: 0px;
+	left: 0px;
+	width: 800px;
+	height: 800px;
+	-ms-border-radius: 16px;
+	-o-border-radius: 16px;
+	-moz-border-radius: 16px;
+	-webkit-border-radius: 16px;
+	border-radius: 16px;
+	background:rgba(255,255,255,1);
+}
+
+
+#spain {
+	top: 718px;
+	left: 15px;
+	width: 132px;
+	height: 64px;
+	overflow: hidden;
+	font-family: Red Hat Text;
+	font-size: 32px;
+	text-align: left;
+	color:#FFFFFF;
+}
+
+#destination_2 {
+	top: 0px;
+	left: 860px;
+	width: 800px;
+	height: 800px;
+}
+
+#rectangle_24 {
+	top: 0px;
+	left: 0px;
+	width: 800px;
+	height: 800px;
+	-ms-border-radius: 16px;
+	-o-border-radius: 16px;
+	-moz-border-radius: 16px;
+	-webkit-border-radius: 16px;
+	border-radius: 16px;
+	background:rgba(255,255,255,1);
+}
+
+
+#japan {
+	top: 718px;
+	left: 15px;
+	width: 145px;
+	height: 64px;
+	overflow: hidden;
+	font-family: Red Hat Text;
+	font-size: 32px;
+	text-align: left;
+	color:#FFFFFF;
+}
+
+#destination_3 {
+	top: 0px;
+	left: 1720px;
+	width: 800px;
+	height: 800px;
+}
+
+#rectangle_25 {
+	top: 0px;
+	left: 0px;
+	width: 800px;
+	height: 800px;
+	-ms-border-radius: 16px;
+	-o-border-radius: 16px;
+	-moz-border-radius: 16px;
+	-webkit-border-radius: 16px;
+	border-radius: 16px;
+	background:rgba(255,255,255,1);
+}
+
+
+#usa {
+	top: 718px;
+	left: 15px;
+	width: 103px;
+	height: 64px;
+	overflow: hidden;
+	font-family: Red Hat Text;
+	font-size: 32px;
+	text-align: left;
+	color:#FFFFFF;
+}
+
+
+#popular_destinations {
+	top: 0px;
+	left: 1010px;
+	width: 546px;
+	height: 81px;
+	overflow: hidden;
+	font-family: Red Hat Text;
+	font-size: 40px;
+	text-align: left;
+	color:#F2785C;
+}
+
+#_3_steps {
+	top: 845px;
+	left: 131px;
+	width: 1177px;
+	height: 247px;
+}
+#frame_27 {
+	top: 93px;
+	left: 0px;
+	width: 1177px;
+	height: 154px;
+}
+#frame_26 {
+	top: 0px;
+	left: 860px;
+	width: 317px;
+	height: 154px;
+}
+
+#we_will_give_you_recommendations {
+	top: 130px;
+	left: 0px;
+	width: 342px;
+	height: 38px;
+	overflow: hidden;
+	font-family: Aleo;
+	font-size: 20px;
+	text-align: left;
+	color:#0D606F;
+}
+
+#frame_12 {
+	top: 0px;
+	left: 109px;
+	width: 100px;
+	height: 100px;
+}
+
+#rectangle_13 {
+	top: 0px;
+	left: 0px;
+	width: 100px;
+	height: 100px;
+	-ms-border-radius: 16px;
+	-o-border-radius: 16px;
+	-moz-border-radius: 16px;
+	-webkit-border-radius: 16px;
+	border-radius: 16px;
+	background:rgba(242,120,92,1);
+}
+
+
+#vector_ek6 {
+	top: 28px;
+	left: 20px;
+	width: 60px;
+	height: 45px;
+}
+
+#frame_25 {
+	top: 0px;
+	left: 478px;
+	width: 222px;
+	height: 154px;
+}
+
+#share_us_preferable_dates {
+	top: 130px;
+	left: 0px;
+	width: 247px;
+	height: 38px;
+	overflow: hidden;
+	font-family: Aleo;
+	font-size: 20px;
+	text-align: left;
+	color:#0D606F;
+}
+
+#frame_11 {
+	top: 0px;
+	left: 61px;
+	width: 100px;
+	height: 100px;
+}
+
+#rectangle_13_ek1 {
+	top: 0px;
+	left: 0px;
+	width: 100px;
+	height: 100px;
+	-ms-border-radius: 16px;
+	-o-border-radius: 16px;
+	-moz-border-radius: 16px;
+	-webkit-border-radius: 16px;
+	border-radius: 16px;
+	background:rgba(242,120,92,1);
+}
+
+
+#vector_ek7 {
+	top: 24px;
+	left: 24px;
+	width: 52px;
+	height: 52px;
+}
+
+#frame_24 {
+	top: 0px;
+	left: 0px;
+	width: 247px;
+	height: 154px;
+}
+
+#tell_us_what_you_want_to_do {
+	top: 130px;
+	left: 0px;
+	width: 272px;
+	height: 38px;
+	overflow: hidden;
+	font-family: Aleo;
+	font-size: 20px;
+	text-align: left;
+	color:#0D606F;
+}
+
+#frame_28 {
+	top: 0px;
+	left: 73px;
+	width: 100px;
+	height: 100px;
+}
+
+#rectangle_13_ek2 {
+	top: 0px;
+	left: 0px;
+	width: 100px;
+	height: 100px;
+	-ms-border-radius: 16px;
+	-o-border-radius: 16px;
+	-moz-border-radius: 16px;
+	-webkit-border-radius: 16px;
+	border-radius: 16px;
+	background:rgba(242,120,92,1);
+}
+
+
+#vector_ek8 {
+	top: 28px;
+	left: 25px;
+	width: 50px;
+	height: 45px;
+}
+
+
+#_3_steps_to_the_perfect_trip {
+	top: 0px;
+	left: 283px;
+	width: 656px;
+	height: 81px;
+	overflow: hidden;
+	font-family: Red Hat Text;
+	font-size: 40px;
+	text-align: left;
+	color:#F2785C;
+}
+
+#plan_your_trip {
+	top: 122px;
+	left: 120px;
+	width: 892px;
+	height: 422px;
+}
+
+#receive_personalized_recommendations_for_countries__hotels__activities_and_more {
+	top: 224px;
+	left: 0px;
+	width: 748px;
+	height: 38px;
+	overflow: hidden;
+	font-family: Aleo;
+	font-size: 20px;
+	font-weight: bold;
+	font-style: italic;
+	text-align: left;
+	color:#FFFFFF;
+}
+
+
+#explore_the_beauty_of_the_world {
+	top: 0px;
+	left: 0px;
+	width: 977px;
+	height: 478px;
+	overflow: hidden;
+	font-family: Aleo;
+	font-size: 80px;
+	font-weight: bold;
+	text-align: left;
+	color:#FFFFFF;
+}
+
+#search {
+	top: 294px;
+	left: 0px;
+	width: 892px;
+	height: 95px;
+}
+
+#rectangle_8 {
+	opacity:0.69999998807907;
+	top: 0px;
+	left: 0px;
+	width: 892px;
+	height: 95px;
+	-ms-border-radius: 16px;
+	-o-border-radius: 16px;
+	-moz-border-radius: 16px;
+	-webkit-border-radius: 16px;
+	border-radius: 16px;
+	background:rgba(255,255,255,0.7);
+}
+
+#frame_2 {
+	top: 18px;
+	left: 646px;
+	width: 228px;
+	height: 59px;
+}
+
+#start_planning {
+	top: 13.5px;
+	left: 32.5px;
+	width: 192px;
+	height: 49px;
+	overflow: hidden;
+	font-family: Red Hat Text;
+	font-size: 24px;
+	text-align: left;
+	color:#FFFFFF;
+}
+
+
+#what_would_you_like_to_do_ {
+	top: 32px;
+	left: 41px;
+	width: 589px;
+	height: 39px;
+	overflow: hidden;
+	font-family: Aleo;
+	font-size: 24px;
+	font-style: italic;
+	text-align: left;
+	color:#F2785C;
+}
+
+#header {
+	top: 0px;
+	left: 0px;
+	width: 1440px;
+	height: 90px;
+}
+
+#rectangle_26 {
+	opacity:0.69999998807907;
+	top: 0px;
+	left: 0px;
+	width: 1440px;
+	height: 90px;
+	-ms-box-shadow:0px 4px 4px 1px rgba(13,96,111,0.5);
+	-o-box-shadow:0px 4px 4px 1px rgba(13,96,111,0.5);
+	-webkit-box-shadow:0px 4px 4px 1px rgba(13,96,111,0.5);
+	-moz-box-shadow:0px 4px 4px 1px rgba(13,96,111,0.5);
+	box-shadow:0px 4px 4px 1px rgba(13,96,111,0.5);
+	background:rgba(242,120,92,0.7);
+}
+
+#logo {
+	top: 25px;
+	left: 120px;
+	width: 216px;
+	height: 31px;
+}
+
+#vector_ek9 {
+	top: 1px;
+	left: 0px;
+	width: 30px;
+	height: 30px;
+}
+
+
+#travel_portal {
+	top: 0px;
+	left: 36px;
+	width: 217px;
+	height: 53px;
+	overflow: hidden;
+	font-family: Magra;
+	font-size: 32px;
+	font-weight: bold;
+	text-align: left;
+	color:#FFFFFF;
+}
+
+#navigation {
+	top: 35px;
+	left: 494px;
+	width: 527px;
+	height: 21px;
+}
+
+#how_it_works {
+	top: 0px;
+	left: 0px;
+	width: 119px;
+	height: 32px;
+	overflow: hidden;
+	font-family: Red Hat Text;
+	font-size: 16px;
+	text-align: left;
+	color:#FFFFFF;
+}
+
+
+#plan_your_trip_ek1 {
+	top: 0px;
+	left: 140px;
+	width: 126px;
+	height: 32px;
+	overflow: hidden;
+	font-family: Red Hat Text;
+	font-size: 16px;
+	text-align: left;
+	color:#FFFFFF;
+}
+
+
+#destinations_ek2 {
+	top: 0px;
+	left: 287px;
+	width: 116px;
+	height: 32px;
+	overflow: hidden;
+	font-family: Red Hat Text;
+	font-size: 16px;
+	text-align: left;
+	color:#FFFFFF;
+}
+
+
+#travel_stories_ek1 {
+	top: 0px;
+	left: 424px;
+	width: 124px;
+	height: 32px;
+	overflow: hidden;
+	font-family: Red Hat Text;
+	font-size: 16px;
+	text-align: left;
+	color:#FFFFFF;
+}
+
+#frame_1 {
+	top: 25px;
+	left: 1217px;
+	width: 103px;
+	height: 41px;
+}
+
+#login {
+	top: 10px;
+	left: 30px;
+	width: 64px;
+	height: 32px;
+	overflow: hidden;
+	font-family: Red Hat Text;
+	font-size: 16px;
+	text-align: left;
+	color:#FFFFFF;
+}
+
+/* My custom CSS here */
